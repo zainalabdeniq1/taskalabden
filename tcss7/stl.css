@@ -1,0 +1,17 @@
+.text1 {
+    margin: 24px;
+    padding: 12px;
+    background-color: gainsboro;
+    border-left: 10px solid rgb(48, 64, 145);
+}
+
+p {
+    margin: 15px;
+}
+
+span {
+    color: rgb(234, 45, 209);
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 250;
+}
