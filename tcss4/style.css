@@ -1,0 +1,29 @@
+* {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT83rlrpAz818wtrE7K-pOwPio0HZoBRMgjzg&usqp=CAU );
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 90%;
+}
+
+.three,
+.one,
+.two {
+    width: 280px;
+    height: auto;
+    border: 1px solid #000;
+    margin: 10px 0 5px 8px;
+    padding: 20px;
+}
+
+.one {
+    color: #000;
+    background: inherit;
+    background-image: url(../../../Documents/html/image/noor-html.jpg);
+}
+
+.two,
+.three {
+    color: #fff;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT83rlrpAz818wtrE7K-pOwPio0HZoBRMgjzg&usqp=CAU);
+}
