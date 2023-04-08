@@ -1,0 +1,10 @@
+.text1 {
+    margin: 24px;
+    padding: 12px;
+    background-color: gainsboro;
+    border-left: 10px solid rgb(48, 64, 145);
+}
+
+p {
+    margin: 15px;
+}
